@@ -31,10 +31,6 @@
 		border:none;
 		font-size:40px;
 	}
-	.space{
-	         width:31%;
-	}
-
 	.col-1{
 		width:100%;
 	}
@@ -75,7 +71,7 @@
 		padding:20px;
 	}
     .space{
-		width:33%;
+		width:30%;
 		/* text-align:center; */
 		border:1px solid black;
 		 padding:2px;
